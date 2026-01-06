@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on DevOps processes and Azure cloud
+- 🌱 I’m currently learning for the AZ-400 exam
+- 👯 I’m looking to collaborate on a Platform project. I'm a newcomer to Platform engineering concepts.
 <!--
 **leetdx/leetdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
