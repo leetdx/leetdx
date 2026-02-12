@@ -1,12 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on DevOps processes and Azure cloud
-- 🌱 I’m currently learning for the AZ-400 exam
+- 🔭 I’m currently working on DevOps processes and public cloud's services
 - :ship: I'm looking to collaborate on a Platform project, as I'm a newcomer to Platform engineering concepts
 
 #### Some technical credentials I hold :hatching_chick:
 - Certified Kubernetes Administrator [link](https://www.credly.com/badges/3b5fdcdd-fb47-4358-88e2-ab145ffc0339/public_url)
 - Microsoft Certified: Azure Administrator Associate [link](https://learn.microsoft.com/en-us/users/leetd/credentials/d3b5e47e3c92709a)
-- ...
+- Microsoft Certified: DevOps Engineer Expert [link](https://learn.microsoft.com/en-us/users/leetd/credentials/c67ca5679126a3a5)
 
 <!--
 **leetdx/leetdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
